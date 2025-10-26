@@ -1,0 +1,65 @@
+site_name: Manual de Usuario Docente – Edu 2.0
+
+theme:
+  name: material
+  language: es
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  features:
+    - palette.toggle
+    - navigation.sections
+    - content.code.copy
+
+
+extra_javascript:
+  - js/logo-theme-switcher.js
+markdown_extensions:
+  - attr_list
+
+plugins:
+  - search
+  - glightbox:
+      touchNavigation: true
+      effect: zoom
+      zoomable: true
+      draggable: true
+
+nav:
+  - Introducción: index.md
+  - Descripción General: descripcion.md
+  - Acceso e inicio de sesión: acceso.md
+  - Gestión de Contenido:
+      - Navegación del módulo: navegacion.md
+      - Subir contenido : subir.md
+      - Administrar contenido: administrar.md 
+      - Chat con el contenido: chat.md
+  - Gestión de Exámenes:
+      - Exámenes creados : examenes.md
+      - Crear nuevo examen: examen_nuevo.md
+      - Ver examen: ver_examen.md
+  - Estadísticas:
+      - Consultas por fecha: fecha.md
+      - Palabras clave: palabra.md
+      - Conexiones por día: conexiones.md
+      - Parciales y notas: notas.md
+      - Origen: origen.md
+  - Flujo alumno ↔ docente : flujo.md
+  - Buenas prácticas de autoría: buenas_practicas.md
+  - FAQ: faq.md
+  - Privacidad y seguridad: seguridad.md
+
+dev_addr: 127.0.0.1:8001

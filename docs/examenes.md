@@ -2,18 +2,21 @@
 
 2.	En la tabla verás:  
 
-    •	Título del examen (p. ej. “Parcial 2 Fluidos”).  
+    -	Título del examen (p. ej. “Parcial 2 Fluidos”).  
 
-    •	Botón Ver examen (muestra el detalle/preguntas).  
+    -	Botón Ver examen (muestra el detalle/preguntas).  
 
-    •	Estado: Visible para el alumno (verde) • no visible.  
+    -	Estado:  
+    Visible para el alumno (verde)  
+    Oculto para el alumno (rojo).  
 
-    •	Modificar visibilidad (publicar/ocultar).  
+    -	Modificar visibilidad (publicar/ocultar).  
 
-    •	Eliminar (borra el examen y sus preguntas).  
+    -	Eliminar (borra el examen y sus preguntas).  
 
-## **Flujo recomendado de publicación**
-•	Crear → Revisar → Publicar (Visible para el alumno) → Comunicar a cursada.
+ **Flujo recomendado de publicación** 
+
+   Crear → Revisar examen → Publicar (Visible para el alumno) → Comunicar a la cursada.
 
 
 

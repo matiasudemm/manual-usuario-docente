@@ -1,17 +1,20 @@
-1.	Docente publica contenidos y crea exámenes (visible=true para publicar).  
+1.	El docente:  
+    - Publica contenidos
+    - Crea exámenes y los publica
 
-2.	Alumno:  
+2.	El Alumno:  
 
-    •	Consulta en su pestaña Consultas (el sistema responde en base al contenido indexado).  
+    -	Realiza consultas.  
 
-    •	Ve el listado de Exámenes disponibles y rinde.  
+    -	Ve el listado de Exámenes disponibles y los completa.  
 
 3.	Sistema:  
+    -   Responde en base al contenido indexado.
 
-    •	Evalúa con IA (si hay respuestas esperadas) → nota 0–10 (a veces con estrellas).  
+    -	Evalúa con IA → Califica el exámen completo de 0 a 10  y cada respuesta con estrellas.
 
-    •	Persiste intentos y resultados.  
+    -	Persiste intentos y resultados.  
 
 4.	Docente:  
 
-    •	Revisa Estadísticas, actualiza PDFs y ajusta exámenes según necesidad.  
+    -	Revisa Estadísticas, actualiza PDFs y agrega o elimina exámenes según necesidad.  

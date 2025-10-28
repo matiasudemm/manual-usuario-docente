@@ -4,17 +4,17 @@
 
 3.	Acciones disponibles:  
 
-    •	Eliminar (ícono rojo de papelera) → quita el PDF y sus embeddings asociados.  
+    -	Eliminar (ícono rojo de papelera) → quita el PDF y sus embeddings asociados.  
 
-    •	Actualizar → reescanea/recarga la lista si subiste • eliminaste algo recientemente.  
+    -	Actualizar → reescanea/recarga la lista si subiste o eliminaste algo recientemente.  
 
  **Buenas prácticas**  
 
-•	Mantener solo las versiones vigentes.  
+-	Mantener solo las versiones vigentes.  
 
-•	Si reemplazás un apunte, eliminá primero el viejo.  
+-	Si reemplazás un apunte, eliminá primero el viejo.  
 
-•	Revisar que los nombres de archivo coincidan con el programa de la materia.  
+-	Revisar que los nombres de archivo coincidan con el programa de la materia.  
 
 
 ![Docente-4](img/Docente-4.jpg){ width="100%" align="center" }

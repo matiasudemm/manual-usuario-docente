@@ -3,11 +3,11 @@
 
 2.	La pantalla principal muestra:  
 
-    •	Tu nombre y carrera (barra superior).  
+    -	Tu nombre y carrera (barra superior).  
 
-    •	La lista de Materias asignadas (cuerpo de página).  
+    -	La lista de Materias asignadas (cuerpo de página).  
 
-    •	Botón Cerrar Sesión (arriba a la derecha).  
+    -	Botón Cerrar Sesión (arriba a la derecha).  
 
 3. En cada materia verás accesos: Gestión de Contenido, Gestión de Exámenes, Ver Estadísticas.  
 

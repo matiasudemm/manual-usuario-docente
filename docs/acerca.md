@@ -14,4 +14,4 @@ Encargada de la planificación, organización y seguimiento del proyecto. Asegur
 Participa activamente en el diseño y desarrollo de las funcionalidades del sistema. Su aporte técnico se destaca en la implementación del backend y la integración de los módulos principales. Aporta soluciones creativas y eficientes para los desafíos del desarrollo.
 
 - **Jorge Retamozo — Desarrollador**  
-Colabora en la programación y mantenimiento del sistema, participando en la codificación, pruebas y documentación. Su perfil proactivo y su interés por el aprendizaje continuo aportan dinamismo y compromiso al grupo.
+Colabora en la programación del sistema, participando en la codificación, pruebas y documentación. Su perfil proactivo y su interés por el aprendizaje continuo aportan dinamismo y compromiso al grupo.

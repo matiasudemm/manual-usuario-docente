@@ -61,5 +61,6 @@ nav:
   - Buenas prácticas de autoría: buenas_practicas.md
   - FAQ: faq.md
   - Privacidad y seguridad: seguridad.md
+  - Acerca de Smartech: acerca.md 
 
 dev_addr: 127.0.0.1:8001
